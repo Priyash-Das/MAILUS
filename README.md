@@ -1,6 +1,7 @@
 # 📬 MAILUS – Email Collection Web App
 
 **MAILUS** is a mobile-friendly web application that allows users to securely submit their email addresses. It prioritizes user privacy, transparency, and simplicity. Designed for quick interactions, the site includes a detailed Privacy Policy and Terms of Use page to ensure trust and data safety.
+> View [Click here](https://priyash-das.github.io/MAILUS/index.html)
 
 ---
 
